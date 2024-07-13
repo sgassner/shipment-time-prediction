@@ -1,4 +1,4 @@
-# Shipment Time Prediction with OLS, LASSO, Ridge, Elastic Net and Random Random Forest
+# Shipment Time Prediction with OLS, LASSO, Ridge, Elastic Net and Random Forest
 
 The objective of this project is to analyze and predict delivery times using a dataset from an e-commerce platform, focusing on data cleaning, variable transformation, and model selection.
 
